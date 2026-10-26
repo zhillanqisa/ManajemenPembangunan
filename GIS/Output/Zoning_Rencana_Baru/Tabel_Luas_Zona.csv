@@ -1,0 +1,17 @@
+id,Kode,Zona,Status,Ket,Luas_m2,Luas_Ha,Warna
+1,1,Badan Jalan,Rencana,Rencana sistem transportasi,6110.45,0.611,#EB1E1E
+2,2,Jalur Pejalan Kaki,Rencana,Rencana sistem transportasi,2867.64,0.2868,#525252
+3,3,Permukiman Kepadatan Tinggi,Rencana,Dipertahankan,23578.74,2.3579,#FFBE00
+4,4,Rimba Kota,Rencana,Dipertahankan,8336.83,0.8337,#37550A
+5,7,Kantong Parkir,Rencana,Dimodifikasi,881.02,0.0881,#969696
+6,17,Perdagangan dan Jasa,Rencana,Rencana,4689.96,0.469,#FFA5A5
+7,24,Lahan Sawah,Rencana,Dimodifikasi,14996.86,1.4997,#C8F546
+8,25,Kolam Ikan,Rencana,Ditambahkan,2163.52,0.2164,#B4F5FF
+9,26,UMKM,Rencana,Ditambahkan,11484.1,1.1484,#C8AAFF
+10,27,Green House,Rencana,Ditambahkan,1175.11,0.1175,#FFC0CB
+11,101,Jalan,Eksisting,Kondisi eksisting,4175.77,0.4176,#E31A1C
+12,102,Kawasan Permukiman,Eksisting,Kondisi eksisting,8026.58,0.8027,#FFFF73
+13,103,Ruang Terbuka Hijau,Eksisting,Kondisi eksisting,4856.58,0.4857,#38A800
+14,104,Lapangan,Eksisting,Kondisi eksisting,10774.63,1.0775,#D7C29E
+15,105,Pasar-Terminal,Eksisting,Kondisi eksisting,11035.98,1.1036,#E8792B
+16,106,Pasar,Eksisting,Kondisi eksisting,5105.33,0.5105,#F4A6A6
